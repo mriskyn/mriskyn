@@ -6,10 +6,10 @@
 I'm Risky, a 19 years old web developer from Indonesia.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 HTML, CSS, JavaScript, PHP
+- ⚙️ React, Vue, Node.js, Laravel
+- 👁️ SASS, CSS, Material-UI
+- 💽 MySQL, PostgreSQL, Mongo
 
 ## Contact
 - [@mriskyn](https://twitter.com/mriskyn) on Twitter
