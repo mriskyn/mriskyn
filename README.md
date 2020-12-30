@@ -1,16 +1,17 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Risky Nugraha" />
+</h1>
 
-<!--
-**mriskyn/mriskyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Risky, a 19 years old web developer from Indonesia.
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, JavaScript, PHP
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@mriskyn](https://twitter.com/mriskyn) on Twitter
+- [@mriskyn](https://instagram.com/mriskyn) on Instagram
+- [risk#6513](./) on Discord
