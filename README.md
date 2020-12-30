@@ -4,6 +4,7 @@
 
 ## Hey! 👋
 I'm Risky, a 19 years old web developer from Indonesia.
+Currently, I'm studying Web & Mobile Development at [Purwadhika Coding School](https://purwadhika.com)
 
 ## Skills
 - 👨‍💻 HTML, CSS, JavaScript, PHP
