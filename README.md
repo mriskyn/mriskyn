@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Risky Nugraha" />
+  <img src="https://raw.githubusercontent.com/mriskyn/mriskyn/master/name-gif.gif" alt="Risky Nugraha" />
 </h1>
 
 ## Hey! 👋
