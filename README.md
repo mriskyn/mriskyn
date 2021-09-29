@@ -18,3 +18,6 @@ Currently, I'm working at PT Elnusa, Tbk as Web Developer.
 - [@mriskyn](https://twitter.com/mriskyn) on Twitter
 - [@mriskyn](https://instagram.com/mriskyn) on Instagram
 - [risk#6513](./) on Discord
+
+[![Risky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mriskyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mriskyn)](https://github.com/anuraghazra/github-readme-stats)
