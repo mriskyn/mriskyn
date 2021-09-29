@@ -4,13 +4,15 @@
 
 ## Hey! 👋
 I'm Risky, Full Stack Web Developer from Indonesia.
-Currently, I'm studying Web & Mobile Development at [Purwadhika Coding School](https://purwadhika.com)
+I was studying Web & Mobile Development at [Purwadhika Coding School](https://purwadhika.com)
+Currently, I'm working at PT Elnusa, Tbk as Web Developer.
+
 
 ## Skills
 - 👨‍💻 HTML, CSS, JavaScript, PHP
 - ⚙️ React, Vue, Node.js, Laravel
 - 👁️ SASS, CSS, Material-UI
-- 💽 MySQL, PostgreSQL, Mongo
+- 💽 MySQL, PostgreSQL, MongoDB
 
 ## Contact
 - [@mriskyn](https://twitter.com/mriskyn) on Twitter
