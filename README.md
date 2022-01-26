@@ -16,7 +16,11 @@
 ### 👉 Programming languages
 
 <p align="left"> 
-  &emsp; 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&logo=node.js&logoColor=white"/>
+   </a>
+  &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
@@ -39,18 +43,30 @@
   &emsp;
 </p>
 
-### 👉 Frontend Development
+### 👉 Frameworks
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg"/>
+  </a>
+  &emsp; 
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&logo=django&logoColor=white"/>
+  </a>
+  &emsp; 
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&logo=react&logoColor=%2361DAFB"/>
+  </a>
   &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
+  <a href="https://vuejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&logo=vue.js&logoColor=%234FC08D"/>
+  </a>
+  &emsp;
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&logo=laravel&logoColor=white"/>
+  </a>
+  &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
@@ -72,7 +88,6 @@
   &emsp;
     <a href="https://firebase.google.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&logo=mongodb&logoColor=white"/></a>
  </p>
-  
 
 ### 👉 Software & Tools
 
